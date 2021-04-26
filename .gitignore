@@ -2,3 +2,5 @@
 */out
 lab*
 */**/*.zip
+*/target
+*/**/*.iml
